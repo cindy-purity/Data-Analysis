@@ -1,2 +1,2 @@
 # Data-Analysis
-This repositories has notebooks of my Data Analytics Projects
+This repository has notebooks of my Data Analytics Projects
